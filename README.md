@@ -1,4 +1,6 @@
-![image](https://github.com/LukaszKrolicki/RangeMarkerMap/assets/54467678/556ac820-a687-4420-bb1e-48b3d1fdca72)Project contains:
+Project made to test Google maps in Kotlin.
+
+Project contains:
 
 - getting current location of user and updating it
 - zoom in / zoom out
